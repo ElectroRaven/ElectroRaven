@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm Max! 👋
 
-<!--
-**ElectroRaven/ElectroRaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+- 🌟 **Name**: Max
+- 🌍 **Age**: 17
+- ✈️ **Software Developer at [IVAO.aero](https://www.ivao.aero)**
+- ✨ **Interests**: Software Engineering, Server Administration, Aviation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Skills
+
+- **Programming Languages**:  
+  💡 C#, Java, Kotlin
+
+- **Web Development**:  
+  🔧 HTML, CSS, JavaScript, SQL
+
+- **Mobile Development**:  
+  📱 Android Development
+
+- **DevOps**:  
+  🧰 Kubernetes (Basic Knowledge), Linux
+
+---
+
+### Connect with Me
+
+- 🔍 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/maximilian-grill-54abbb27a/)
+
+---
+
+### Fun Fact
+- I'm passionate about merging my love for aviation and software development to create impactful tools for aviation enthusiasts and professionals.
+
+---
+
+### Github Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElectroRaven&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElectroRaven&layout=compact&theme=radical)
+
+---
+
+Feel free to explore my repositories and connect with me! Let’s build something amazing together! 🌐✨
