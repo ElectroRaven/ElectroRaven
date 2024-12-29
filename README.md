@@ -37,7 +37,6 @@
 ---
 
 ### Github Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElectroRaven&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElectroRaven&layout=compact&theme=radical)
 
