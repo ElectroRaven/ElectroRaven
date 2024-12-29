@@ -27,7 +27,7 @@
 
 ### Connect with Me
 
-- 🔍 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/maximilian-grill-54abbb27a/)
+- 🔍 **LinkedIn**: [Maximilian Grill](https://www.linkedin.com/in/maximilian-grill-54abbb27a/)
 
 ---
 
