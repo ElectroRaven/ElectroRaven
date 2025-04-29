@@ -3,7 +3,7 @@
 ### About Me
 
 - 🌟 **Name**: Max
-- 🌍 **Age**: 17
+- 🌍 **Age**: 18
 - ✈️ **Software Developer at [IVAO.aero](https://www.ivao.aero)**
 - ✨ **Interests**: Software Engineering, Server Administration, Aviation
 
